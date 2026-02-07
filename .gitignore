@@ -113,3 +113,27 @@ build-*/
 # QML specific
 *.qmlc
 *.jsc
+
+
+
+# --- Qt / CMake specific ignores ---
+
+# Ignore the actual build directories
+build/
+build-*/
+out/
+
+# Ignore Qt Creator specific local settings
+.qtcreator/
+*.pro.user
+*.pro.user.*
+*.CMakeLists.txt.user
+
+# Ignore QML cached files
+*.qmlc
+*.jsc
+
+# Visual Studio / Ninja temp files if applicable
+.cmake/
+CMakeCache.txt
+CMakeFiles/
