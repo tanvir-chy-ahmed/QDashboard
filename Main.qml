@@ -12,7 +12,7 @@ ApplicationWindow{
     minimumHeight: 400
     minimumWidth: 600
     visible: true
-    title: qsTr("Dashboard")
+    title: qsTr("QDashboard")
     flags: Qt.FramelessWindowHint | Qt.Window
     visibility: Window.Windowed
 
