@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/ics"/>
+    <qresource prefix="/">
+        <file>icon/dashboard_ic.svg</file>
+        <file>icon/ok.png</file>
+        <file>icon/report_ic.svg</file>
+        <file>icon/search_ic.svg</file>
+        <file>icon/setting_ic.svg</file>
+        <file>icon/star_ic.svg</file>
+        <file>icon/statistics_ic.svg</file>
+        <file>icon/triangle_ic.svg</file>
+        <file>icon/user_ic.svg</file>
+    </qresource>
+</RCC>

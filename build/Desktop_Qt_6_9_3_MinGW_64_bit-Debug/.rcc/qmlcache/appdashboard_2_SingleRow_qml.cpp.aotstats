@@ -1,0 +1,84 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 208,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 18
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 16,
+                        "durationMicroseconds": 270,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 17,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "Cannot access value for name imgpath",
+                        "functionName": "source",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 19,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 15,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot access value for name name",
+                        "functionName": "text",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 22,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "",
+                        "functionName": "cursorShape",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 20,
+                        "durationMicroseconds": 400,
+                        "errorMessage": "Cannot access value for name root",
+                        "functionName": "onClicked",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 52
+                    }
+                ],
+                "filePath": "D:/Projects/Qt Projects/dashboard_2/SingleRow.qml"
+            }
+        ],
+        "moduleId": "dashboard_2(appdashboard_2)"
+    }
+]

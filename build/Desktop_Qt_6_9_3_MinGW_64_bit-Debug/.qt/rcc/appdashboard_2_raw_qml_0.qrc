@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/dashboard_2/">
+    <file alias="Main.qml">D:/Projects/Qt Projects/dashboard_2/Main.qml</file>
+    <file alias="SingleRow.qml">D:/Projects/Qt Projects/dashboard_2/SingleRow.qml</file>
+    <file alias="CustomPrg.qml">D:/Projects/Qt Projects/dashboard_2/CustomPrg.qml</file>
+    <file alias="assets.qrc">D:/Projects/Qt Projects/dashboard_2/assets.qrc</file>
+  </qresource>
+</RCC>
+

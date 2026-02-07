@@ -1,0 +1,8 @@
+module dashboard_2
+typeinfo appdashboard_2.qmltypes
+prefer :/qt/qml/dashboard_2/
+Main 254.0 Main.qml
+SingleRow 254.0 SingleRow.qml
+CustomPrg 254.0 CustomPrg.qml
+depends QtQuick
+
